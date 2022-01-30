@@ -1,5 +1,3 @@
-## Егорова Полина ИУ7-24Б - оконное приложение - перевод из семеричной системы счисления в десятичную и обратно
-
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
